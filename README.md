@@ -3,22 +3,6 @@
 
 Below is a description of my Capstone Showcase Project as part of my requirements to graduate from Galvanize's Data Science Immersive program. The following work was done in a time period of 3 weeks. The specific python script has  been left out of this repository. 
 
-## Table of Contents
---------------------------
-1. [Introduction](https://github.com/prakhar523/tweetclassifier/blob/master/README.md#introduction)
-2. [More on Apposphere](https://github.com/prakhar523/tweetclassifier/blob/master/README.md#apposphere)
-3. [The Project](https://github.com/prakhar523/tweetclassifier/blob/master/README.md#the_project)
-4. [Technologies](https://github.com/prakhar523/tweetclassifier/blob/master/README.md#Technologies)
-5. [Data](https://github.com/prakhar523/tweetclassifier/blob/master/README.md#Data)
-6. [Exploratory Data Analysis](https://github.com/prakhar523/tweetclassifier/blob/master/README.md#Exploratory_Data_Analysis)
-7. [Model](https://github.com/prakhar523/tweetclassifier/blob/master/README.md#Model)
-8. [Rest API](https://github.com/prakhar523/tweetclassifier/blob/master/README.md#REST_API)
-9. [Results](https://github.com/prakhar523/tweetclassifier/blob/master/README.md#Results)
-
-
- 
-
-
 
 
 ## Introduction
